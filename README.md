@@ -13,7 +13,7 @@ ya sea la aplicacion o por parte del cel. Los programas que tendremos que realiz
 que usemos siemore y cuando contemos con lo que el maestro pide adicional a esto tendriamos que practicarlos,almacenarlos y  
 queden aqui para cualquier uso 
 
-Algunos progrmamas a usar seria: 
+Algunos programas a usar seria: 
 git 
 github deskop 
 python          
